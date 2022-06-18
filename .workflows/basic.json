@@ -1,3 +1,8 @@
 {
-  "name": "Basic Workflow"
+  "name": "Basic Workflow",
+  "targetDir": "./templates/basic",
+  "variables": {
+    "TEXT": "$TEXT"
+  },
+  "outDir": ["output", "$NAME"]
 }

@@ -4,5 +4,6 @@
   "variables": {
     "TEXT": "$TEXT"
   },
+  "targetFiles": ["test.txt"],
   "outDir": ["output", "$NAME"]
 }

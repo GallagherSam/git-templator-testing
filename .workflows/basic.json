@@ -1,6 +1,6 @@
 {
   "name": "Basic Workflow",
-  "targetDir": "./templates/basic",
+  "targetDir": "templates/basic",
   "variables": {
     "TEXT": "$TEXT"
   },
